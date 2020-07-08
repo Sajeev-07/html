@@ -1,0 +1,95 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+ 
+}
+.first{
+    box-sizing: border-box;
+}
+#box1{
+    margin-left: auto;
+    margin-right:auto;
+    width: 35%;
+    padding: 10px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+  }
+  
+  .box2{
+      float: left;
+      margin-left: 0px;
+      margin-right: auto;
+      padding-top: auto;
+      width: 25%;
+      padding: 10px;
+      border-radius: 10px;
+  }
+
+  .box3{
+      float: right;
+      margin-top: auto;
+     margin-left: auto;
+     margin-right: 0px;
+     width: 31%;
+     padding: 10px;
+     border-radius: 10px;
+}
+
+  #headline{
+      text-align: center;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-transform:inherit;
+      font-size:18px;
+  }
+
+  .headline2{
+    text-align:left;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-transform:inherit;
+    font-size: 18px;
+}
+  #para{
+      text-align: center;
+      text-transform:inherit;
+      font-size: 12px;
+  }
+
+  #para2{
+      padding-top: 0px;
+      padding-bottom: 0px;
+      text-align:left;
+      text-transform:none;
+      font-size: 12px;
+}
+  #ul{
+     margin-top: 0px;
+     padding-top: 0px ;
+     padding-bottom:5px;
+      padding-left: 25px;
+      text-transform: inherit;
+      font-size: 13px;
+  }
+
+  .footer{
+    position: absolute;
+    margin-bottom: -170px;
+    bottom: 0;
+    width: 100%;
+    background-color: #99ddff;
+    color: black;
+    text-align: center;
+    font-size: small;    
+ 
+  }
+
+  .button{
+      background-color: #e7e7e7; 
+      padding: 10px,24px;
+      border: 2px solid black ;
+      border-radius: 2px;
+
+  }
